@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sec28thaccount/testrepo3/issues"
   },
-  "homepage": "https://github.com/sec28thaccount/testrepo3#readme"
+  "homepage": "https://github.com/sec28thaccount/testrepo3#readme",
+"publishConfig": {
+   "@sec28th:registry": "https://npm.pkg.github.com"
+ }
 }
